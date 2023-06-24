@@ -1,0 +1,17 @@
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\bin\Debug\Sesion12_YBCR.exe.config
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\bin\Debug\Sesion12_YBCR.exe
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\bin\Debug\Sesion12_YBCR.pdb
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\obj\Debug\Sesion12_YBCR.csproj.AssemblyReference.cache
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\obj\Debug\Sesion12_YBCR.csproj.SuggestedBindingRedirects.cache
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\obj\Debug\Sesion12_YBCR.Form1.resources
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\obj\Debug\Sesion12_YBCR.Properties.Resources.resources
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\obj\Debug\Sesion12_YBCR.csproj.GenerateResource.cache
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\obj\Debug\Sesion12_YBCR.csproj.CoreCompileInputs.cache
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\obj\Debug\Sesion12_YBCR.exe
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\obj\Debug\Sesion12_YBCR.pdb
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\bin\Debug\System.Data.SqlClient.dll
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\bin\Debug\System.Data.SqlClient.xml
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\obj\Debug\Sesion12_YBCR.csproj.CopyComplete
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\obj\Debug\Sesion12_YBCR.Form2.resources
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\obj\Debug\Sesion12_YBCR.Form3.resources
+C:\Users\yulca\source\repos\Sesion12_YBCR\Sesion12_YBCR\obj\Debug\Sesion12_YBCR.Form4.resources
